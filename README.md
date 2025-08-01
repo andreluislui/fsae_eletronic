@@ -19,3 +19,6 @@ Projeto destinado a criar uma arquitetura de aquisição de dados baseada no pro
 
 1. Baixar o Raspberry Pi Imager (Raspberry Pi Imager) usando o SNAP (`sudo snap install rpi-imager`);
 
+## Executar
+
+* Em um terminal ssh coectado à raspberry, entrar na pasta do projeto e rodar: `python3 run.py`
