@@ -1,5 +1,5 @@
-import serial
-import pynmea2
+import serial # type: ignore
+import pynmea2 # type: ignore
 
 from utils.logger import setup_logger
 
